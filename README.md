@@ -1,5 +1,6 @@
 # Cs481---Homework-2
 
+A Simple calculator app
 
 Android:
 
