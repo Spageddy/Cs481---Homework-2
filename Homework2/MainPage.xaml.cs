@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace Homework_2
+namespace Homework2
 {
     public partial class MainPage : ContentPage
     {
@@ -16,10 +16,9 @@ namespace Homework_2
         public MainPage()
         {
             InitializeComponent();
-
-
-            
         }
+
+        //buttons clicked
         async void Handle_Clicked(object sender, System.EventArgs e)
         {
             Button button = (Button)sender;//for button
@@ -40,6 +39,7 @@ namespace Homework_2
             }
         }
 
+        //clear button clicked
         async void Clear_Clicked(object sender, System.EventArgs e)
         {
             Button button = (Button)sender;//for button
@@ -55,6 +55,7 @@ namespace Homework_2
             op = ' ';
         }
 
+        //operator button clicked
         async void op_Clicked(object sender, System.EventArgs e)
         {
             Button button = (Button)sender;//for button
@@ -69,6 +70,7 @@ namespace Homework_2
 
         }
 
+        //equal button clicked
         async void Equal_Clicked(object sender, System.EventArgs e)
         {
             Button button = (Button)sender;//for button

@@ -5,13 +5,13 @@
     <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{9EC3CDB2-C3EA-49B7-9C8B-D4A26F0646AA}</ProjectGuid>
+    <ProjectGuid>{77A313FF-CD16-4A15-913E-CAB4B369978D}</ProjectGuid>
     <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{6143fdea-f3c2-4a09-aafa-6e230626515e}</TemplateGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Homework_2.iOS</RootNamespace>
+    <RootNamespace>Homework2.iOS</RootNamespace>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <AssemblyName>Homework_2.iOS</AssemblyName>
+    <AssemblyName>Homework2.iOS</AssemblyName>
     <MtouchHttpClientHandler>NSUrlSessionHandler</MtouchHttpClientHandler>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
@@ -152,9 +152,9 @@
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\Homework_2\Homework_2.csproj">
-      <Project>{C6E0AF9E-25DD-4EAD-9473-484419CD7366}</Project>
-      <Name>Homework_2</Name>
+    <ProjectReference Include="..\Homework2\Homework2.csproj">
+      <Project>{4E822978-12B7-49C9-934C-6D951D146ACD}</Project>
+      <Name>Homework2</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

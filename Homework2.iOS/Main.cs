@@ -5,7 +5,7 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
-namespace Homework_2.iOS
+namespace Homework2.iOS
 {
     public class Application
     {

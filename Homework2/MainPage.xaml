@@ -2,13 +2,13 @@
 <ContentPage
     xmlns="http://xamarin.com/schemas/2014/forms"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Homework_2"
-    x:Class="Homework_2.MainPage"
-   BackgroundImage="bk.png"
+    xmlns:local="clr-namespace:Homework2"
+    x:Class="Homework2.MainPage"
+    BackgroundImage="bk.png"
     >
-      
     <Grid 
         ColumnSpacing="0.75" RowSpacing="0.75" >
+       
         <Grid.RowDefinitions>
            <RowDefinition Height="2*"/>
            <RowDefinition Height="*"/>
@@ -236,6 +236,4 @@
      />
            
     </Grid>
-
-    
 </ContentPage>

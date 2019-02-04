@@ -3,7 +3,7 @@ using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
-namespace Homework_2
+namespace Homework2
 {
     public partial class App : Application
     {
