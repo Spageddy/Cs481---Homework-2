@@ -8,4 +8,4 @@ Android:
 
 IOS:
 
-<img src="https://github.com/Spageddy/Cs481---Homework-2/blob/master/Images/ios.png?raw=true" width="250" height="600">
+<img src="https://github.com/Spageddy/Cs481---Homework-2/blob/master/Images/ios.png?raw=true" width="250" height="500">
